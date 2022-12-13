@@ -1,0 +1,28 @@
+.form-control-search{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 40%;
+}
+
+.product-text{
+    display: inline-block;
+    color: green;
+}
+
+
+.edit-dialog-margin{
+    margin: 26px !important;
+}
+
+.edit-desc{
+    margin: 20px;
+}
+
+.order-management-wrap{
+    margin: 16px;
+}
+
+.search-wrap{
+    margin: 20px;
+    width: 30%;
+}
